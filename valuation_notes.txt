@@ -1,0 +1,22 @@
+Valuation Models
+Notes
+DCF: Finds stock’s real value by guessing future cash flows, discounting them with WACC. Needs cash flow data, discount rate, growth rate.
+
+Comps: Values stock by comparing to similar companies’ multiples (P/E, EV/EBITDA). Needs peer data, financial numbers.
+
+Price Multiples: Fast valuation with P/E (price/earnings) and EV/EBITDA. Needs price, earnings data.
+
+ 
+Choices 
+“1. DCF - Intrinsic value, detailed, core to reports.”  
+
+“2. Comps - Relative value, industry context.”  
+
+“3. Price Multiples (P/E, EV/EBITDA) - Simple, fast, user-friendly.”
+
+
+Rationale
+“DCF gives a deep, true value like in pro reports, using future cash. Comps compares to other companies, matching report styles. Price Multiples are quick and easy, good for users wanting fast answers. These three balance detail, comparison, and speed for my website.”
+
+
+
